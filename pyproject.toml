@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "aws-easy-mfa"
-version = "0.1.0"
+version = "0.1.1"
 description = "a simple python decorator to make using aws mfa super easy with boto3"
 authors = ["Jeremy Watt <jermwatt@gmail.com>"]
 readme = "README.md"

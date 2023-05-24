@@ -1,7 +1,7 @@
 import boto3
 
 
-def get_mfa_credentials(mfa_token_code, mfa_device_arn, duration_seconds):
+def get_mfa_credentials(mfa_token_code, mfa_device_arn, duration_seconds=3600):
     # Create a Boto3 client for STS
     sts_client = boto3.client('sts')
 
