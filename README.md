@@ -1,3 +1,6 @@
+[![Python application](https://github.com/jermwatt/aws_easy_mfa/actions/workflows/python-app.yml/badge.svg)](https://github.com/jermwatt/aws_easy_mfa/actions/workflows/python-app.yml)
+[![Upload Python Package](https://github.com/jermwatt/aws_easy_mfa/actions/workflows/python-publish.yml/badge.svg)](https://github.com/jermwatt/aws_easy_mfa/actions/workflows/python-publish.yml)
+
 # aws_easy_mfa
 
 `aws_easy_mfa` is a simple wrapper for AWS's boto3 that makes it much simpler to use with MFA.  
