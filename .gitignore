@@ -1,7 +1,7 @@
 # local 
 .DS_Store
 *.ipynb_checkpoints
-.lock
+*.lock
 
 
 # Byte-compiled / optimized / DLL files
